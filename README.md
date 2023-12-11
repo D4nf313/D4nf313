@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D4nf313
-- 👀 I’m interested in web pages , backend
-- 🌱 I’m currently learn java-JavaSwing and databases
-- 💞️ I’m looking to collaborate any project that allows me to practice my knowledge
+Mi enfoque es en angular eh trabajado en diferentes versiones desde la 8 13 15 y 16
+eh trabajado con angular material, bootstrap y primeNg
+estoy interesado en aprender java y Springboot
 
 
 <!---
