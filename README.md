@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D4nf313
 Mi enfoque es en angular eh trabajado en diferentes versiones desde la 8 13 15 y 16
 eh trabajado con angular material, bootstrap y primeNg
-estoy interesado en aprender java y Springboot
+aprendiendo spring boot para mejroar mi perfil laboral
 
 
 <!---
